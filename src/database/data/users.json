@@ -1,0 +1,23 @@
+[
+  {
+    "id": "2004da6e-2fcc-47d7-88bd-9196e63a5376",
+    "login": "qwer",
+    "password": "qwer",
+    "role": "user",
+    "isBlocked": false
+  },
+  {
+    "id": "308f42b6-eb30-4e8f-91fb-0e5b0860720d",
+    "login": "admin",
+    "password": "admin",
+    "role": "admin",
+    "isBlocked": false
+  },
+  {
+    "id": "86add5d2-f353-48f8-bc36-80fb951339b9",
+    "login": "asdf",
+    "password": "asdf",
+    "role": "user",
+    "isBlocked": true
+  }
+]
